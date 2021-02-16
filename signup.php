@@ -8,7 +8,6 @@ require "includes/header.php"
         <div class="h-100 container center-me">
             <div class="my-auto">
                 <div class="signup-form">
-
                     <form action="includes/signup-helper.php" method="post">
 
                         <h1 class="h3 mb-3 font-weight-normal">Please sign up</h1>

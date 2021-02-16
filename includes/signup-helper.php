@@ -1,7 +1,6 @@
 <?php
 
 if(isset($_POST['signup-submit'])){
-
     require 'dbhandler.php';
 
     $username = $_POST['uname'];
